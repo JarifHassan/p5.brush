@@ -4,6 +4,12 @@
 
 p5.brush.js adds natural drawing tools to p5.js — pencils, charcoal, markers, watercolor fills, hatch patterns, and vector fields that bend strokes organically. It's built for generative art and high-resolution printing.
 
+<!-- fork:start -->
+
+> 🎬 **In this fork:** p5.brush is also style 44 of [lemo-opuscar-43-styles](https://github.com/JarifHassan/lemo-opuscar-43-styles/blob/main/styles/p5-brush/STYLE.md), a library of film styles for coding agents. **[▶ Watch its demo film, *First Light*](https://github.com/JarifHassan/lemo-opuscar-43-styles/releases/tag/first-light)**, painted frame by frame with the standalone build.
+
+<!-- fork:end -->
+
 [Visit the library website here! (more examples soon)](https://p5-brush.cargo.site/)
 
 > 🖌️ **[Try the interactive Brush Maker →](https://acamposuribe.github.io/p5.brush/tools/brush-maker.html)**  
